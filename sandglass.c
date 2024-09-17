@@ -1,4 +1,4 @@
-//Find the largest and smallest element in a 1D array.
+//sandglass pattern
 #include<stdio.h>
 int main ()
 {
